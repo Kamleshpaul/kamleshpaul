@@ -10,6 +10,6 @@
 ![Views](https://komarev.com/ghpvc/?username=kamleshpaul)
 
 
--  I'm a Full stack Laravel and Vuejs Developer with 3 year of experience.
+-  I'm a Full stack Laravel and Reactjs Developer with 3+ year of experience.
 -  My portfolio http://kamleshpaul.in/.
 
