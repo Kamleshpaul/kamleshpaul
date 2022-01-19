@@ -1,10 +1,4 @@
-name: GitHub-Profile-Summary-Cards
-
-on:
-  schedule: # execute every 24 hours
-    - cron: "* */24 * * *"
-  workflow_dispatch:
-
+name: GitHub-Profile-Summary
 jobs:
   build:
     runs-on: ubuntu-latest
