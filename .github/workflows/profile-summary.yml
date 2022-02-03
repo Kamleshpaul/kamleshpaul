@@ -1,4 +1,6 @@
 name: GitHub-Profile-Summary
+on: workflow_dispatch
+
 jobs:
   build:
     runs-on: ubuntu-latest
