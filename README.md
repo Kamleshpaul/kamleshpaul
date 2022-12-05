@@ -11,7 +11,7 @@
 
 <h2>About me</h2>
 <p>I'm a Full stack Laravel and Reactjs Developer with 4+ year of experience.</p>
-<p>My portfolio http://kamleshpaul.com/.</p>
+<p>My portfolio https://kamleshpaul.com/.</p>
 
 
 ![Views](https://komarev.com/ghpvc/?username=kamleshpaul)
