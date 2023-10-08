@@ -2,11 +2,10 @@
 
 
 ![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=kamleshpaul&show_icons=true&hide_border=true&theme=default#gh-light-mode-only)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kamleshpaul&theme=github&ring=5595f0&hide_border=true&currStreakNum=5595f0&fire=5595f0&currStreakLabel=5595f0)
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamleshpaul&layout=pie&hide_border=true) 
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kamleshpaul&theme=github&ring=5595f0&hide_border=true&currStreakNum=5595f0&fire=5595f0&currStreakLabel=5595f0)
 
 <h2>About me</h2>
 <p>I'm a Full stack Laravel and Reactjs Developer with 6+ year of experience.</p>
