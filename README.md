@@ -19,6 +19,3 @@
 
 ![Views](https://komarev.com/ghpvc/?username=kamleshpaul)
 
-
-<iframe src="https://vishnudev.in/stackoverflow-profile-card/#/user/10834466?size=small&gradient=%23F7F8F8%2C%23ACBB78" width="100%" height="300px" seamless frameborder="0" scrolling="no"></iframe>
-
