@@ -10,8 +10,15 @@
 <h2>About me</h2>
 <p>I'm a Full stack Laravel and Reactjs Developer with 6+ year of experience.</p>
 
-[My Portfolio](./Work/README.md)
+
+- Email: [kamleshpaul414@gmail.com](mailto:kamleshpaul414@gmail.com)
+- LinkedIn: [in/kamleshpaul](http://linkedin.com/in/kamlesh-paul/)
+- [My Works](./Work/README.md)
 
 
 
 ![Views](https://komarev.com/ghpvc/?username=kamleshpaul)
+
+
+<iframe src="https://vishnudev.in/stackoverflow-profile-card/#/user/10834466?size=small&gradient=%23F7F8F8%2C%23ACBB78" width="100%" height="300px" seamless frameborder="0" scrolling="no"></iframe>
+
