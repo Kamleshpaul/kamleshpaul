@@ -1,16 +1,16 @@
 <details>
   <summary><b>Vardforetag</b> (Click to expand/collapse)</summary>
 
-  ## Description
-  This project have meeting managment, so client can create a there avilabilty on callender and user can book a meeting and when meeting started both get notification to join meeting, meeting is video call/ voice call .
+  ### Description
+  This project involves meeting management, allowing clients to create their availability on the calendar. Users can book meetings, and both parties receive notifications to join the meeting. The meeting can be either a video call or a voice call.
 
-  ## Tools Used
-  - Laravel, React js, Websocket, WebRTC, Tailwind css, Laravel forge.
+  ### Tools Used
+  - Laravel, React.js, Websocket, WebRTC, Tailwind CSS, Laravel Forge.
 
-  ## Team size
+  ### Team Size
   - 1
 
-  ## Screenshots
+  ### Screenshots
 
   ![Screenshot 1](./Vardforetag/screenshot1.png)
   ![Screenshot 2](./Vardforetag/screenshot2.png)
@@ -24,16 +24,16 @@
 <details>
   <summary><b>Quiptgsm</b> (Click to expand/collapse)</summary>
 
-  ## Description
-  This project is a online dating coarse management it have realtime chat feature with coach and video courses
+  ### Description
+  This project is an online dating course management system with real-time chat features between coaches and users. It also includes video courses.
 
-  ## Tools Used
-  - Laravel, next js, Websocket, Tailwind css, Laravel forge, Ffmpeg.
+  ### Tools Used
+  - Laravel, Next.js, Websocket, Tailwind CSS, Laravel Forge, Ffmpeg.
 
-  ## Team size
+  ### Team Size
   - 6
 
-  ## Screenshots
+  ### Screenshots
 
   ![Screenshot 1](./Quiptgsm/screenshot1.png)
   ![Screenshot 2](./Quiptgsm/screenshot2.png)
@@ -46,16 +46,16 @@
 <details>
   <summary><b>DCC</b> (Click to expand/collapse)</summary>
 
-  ## Description
-  This project is a drag and drop panel builder for android device
+  ### Description
+  This project is a drag-and-drop panel builder for Android devices.
 
-  ## Tools Used
-  - Laravel, vue js(2), Websocket, bootstrap css, Aws, Mqqt.
+  ### Tools Used
+  - Laravel, Vue.js (2), Websocket, Bootstrap CSS, AWS, MQTT.
 
-  ## Team size
+  ### Team Size
   - 2
 
-  ## Screenshots
+  ### Screenshots
 
   ![Screenshot 1](./DCC/screenshot1.png)
   ![Screenshot 2](./DCC/screenshot2.png)
@@ -67,16 +67,16 @@
 <details>
   <summary><b>CoveredPress</b> (Click to expand/collapse)</summary>
 
-  ## Description
-  This project is report generator for media agency. it collect some info client intreseted and then do background data collection and calculation and generate report.
+  ### Description
+  CoveredPress is a report generator for media agencies. It collects client interests, performs background data collection and calculations, and generates reports.
 
-  ## Tools Used
-  - Laravel, bootstrap css, jqery , aws, so many third party api , stripe .
+  ### Tools Used
+  - Laravel, Bootstrap CSS, jQuery, AWS, various third-party APIs, Stripe.
 
-  ## Team size
+  ### Team Size
   - 3
 
-  ## Screenshots
+  ### Screenshots
 
   ![Screenshot 1](./CoveredPress/screenshot1.png)
   ![Screenshot 2](./CoveredPress/screenshot2.png)
@@ -91,16 +91,16 @@
 <details>
   <summary><b>EmailEditor</b> (Click to expand/collapse)</summary>
 
-  ## Description
-  This project is simple email builder and sent using SMTP
+  ### Description
+  EmailEditor is a simple email builder and sender using SMTP.
 
-  ## Tools Used
-  - Laravel, React js, Tailwind css.
+  ### Tools Used
+  - Laravel, React.js, Tailwind CSS.
 
-  ## Team size
+  ### Team Size
   - 1
 
-  ## Screenshots
+  ### Screenshots
 
   ![Screenshot 1](./EmailEditor/screenshot1.png)
 </details>
@@ -109,18 +109,17 @@
 <details>
   <summary><b>Google Meet Clone</b> (Click to expand/collapse)</summary>
 
-  ## Description
-  This project is google meet clone and group video call
+  ### Description
+  Google Meet Clone is a project focused on group video calls, replicating the features of Google Meet.
 
-  ## Tools Used
-  - Laravel, React js, Tailwind css, Websocket, WebRTC.
+  ### Tools Used
+  - Laravel, React.js, Tailwind CSS, Websocket, WebRTC.
 
-  ## Team size
+  ### Team Size
   - 1
 
-  ## Screenshots
+  ### Screenshots
 
   ![Screenshot 1](./GoogleMeetClone/screenshot1.png)
   ![Screenshot 2](./GoogleMeetClone/screenshot2.png)
 </details>
-
