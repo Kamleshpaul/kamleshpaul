@@ -31,11 +31,11 @@
 
   ### Screenshots
 
-  ![Screenshot 1](./Vardforetag/screenshot1.png)
-  ![Screenshot 2](./Vardforetag/screenshot2.png)
-  ![Screenshot 3](./Vardforetag/screenshot3.png)
-  ![Screenshot 4](./Vardforetag/screenshot4.png)
-  ![Screenshot 5](./Vardforetag/screenshot5.png)
+  ![Screenshot 1](./Work/Vardforetag/screenshot1.png)
+  ![Screenshot 2](./Work/Vardforetag/screenshot2.png)
+  ![Screenshot 3](./Work/Vardforetag/screenshot3.png)
+  ![Screenshot 4](./Work/Vardforetag/screenshot4.png)
+  ![Screenshot 5](./Work/Vardforetag/screenshot5.png)
 
 </details>
 
@@ -54,10 +54,10 @@
 
   ### Screenshots
 
-  ![Screenshot 1](./Quiptgsm/screenshot1.png)
-  ![Screenshot 2](./Quiptgsm/screenshot2.png)
-  ![Screenshot 3](./Quiptgsm/screenshot3.png)
-  ![Screenshot 4](./Quiptgsm/screenshot4.png)
+  ![Screenshot 1](./Work/Quiptgsm/screenshot1.png)
+  ![Screenshot 2](./Work/Quiptgsm/screenshot2.png)
+  ![Screenshot 3](./Work/Quiptgsm/screenshot3.png)
+  ![Screenshot 4](./Work/Quiptgsm/screenshot4.png)
 
 </details>
 
@@ -76,9 +76,9 @@
 
   ### Screenshots
 
-  ![Screenshot 1](./DCC/screenshot1.png)
-  ![Screenshot 2](./DCC/screenshot2.png)
-  ![Screenshot 3](./DCC/screenshot3.png)
+  ![Screenshot 1](./Work/DCC/screenshot1.png)
+  ![Screenshot 2](./Work/DCC/screenshot2.png)
+  ![Screenshot 3](./Work/DCC/screenshot3.png)
 
 </details>
 
@@ -97,12 +97,12 @@
 
   ### Screenshots
 
-  ![Screenshot 1](./CoveredPress/screenshot1.png)
-  ![Screenshot 2](./CoveredPress/screenshot2.png)
-  ![Screenshot 3](./CoveredPress/screenshot3.png)
-  ![Screenshot 4](./CoveredPress/screenshot4.png)
-  ![Screenshot 5](./CoveredPress/screenshot5.png)
-  ![Screenshot 6](./CoveredPress/screenshot6.png)
+  ![Screenshot 1](./Work/CoveredPress/screenshot1.png)
+  ![Screenshot 2](./Work/CoveredPress/screenshot2.png)
+  ![Screenshot 3](./Work/CoveredPress/screenshot3.png)
+  ![Screenshot 4](./Work/CoveredPress/screenshot4.png)
+  ![Screenshot 5](./Work/CoveredPress/screenshot5.png)
+  ![Screenshot 6](./Work/CoveredPress/screenshot6.png)
 
 </details>
 
@@ -121,7 +121,7 @@
 
   ### Screenshots
 
-  ![Screenshot 1](./EmailEditor/screenshot1.png)
+  ![Screenshot 1](./Work/EmailEditor/screenshot1.png)
 </details>
 
 
@@ -139,8 +139,8 @@
 
   ### Screenshots
 
-  ![Screenshot 1](./GoogleMeetClone/screenshot1.png)
-  ![Screenshot 2](./GoogleMeetClone/screenshot2.png)
+  ![Screenshot 1](./Work/GoogleMeetClone/screenshot1.png)
+  ![Screenshot 2](./Work/GoogleMeetClone/screenshot2.png)
 </details>
 
 
