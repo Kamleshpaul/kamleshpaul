@@ -1,4 +1,6 @@
-<h2 align="center">Hi, I'm Kamlesh Paul  <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
+<h2 align="center">Hi there  <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"><br/> I'm Kamlesh Paul <br/> 
+Full Stack developer with 6+ Exp.
+</h2>
 
 
 ![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=kamleshpaul&show_icons=true&hide_border=true&theme=default#gh-light-mode-only)
