@@ -9,9 +9,10 @@ Full Stack developer with 6+ Exp.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kamleshpaul&theme=github&ring=5595f0&hide_border=true&currStreakNum=5595f0&fire=5595f0&currStreakLabel=5595f0)
 
-<h2>About me</h2>
-<p>I'm a Full stack Laravel and Reactjs Developer with 6+ year of experience.</p>
 
+
+
+<h2>Connect with me</h2>
 
 - Email: [kamleshpaul414@gmail.com](mailto:kamleshpaul414@gmail.com)
 - LinkedIn: [in/kamleshpaul](http://linkedin.com/in/kamlesh-paul/)
