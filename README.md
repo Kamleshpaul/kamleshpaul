@@ -20,6 +20,17 @@
 </a>
 
 
+## Skils
+- 👨‍💻 NodeJs, TypeScript, JavaScript, PHP, Python.
+- ⚙️ Nextjs ,React , Expressjs, Laravel.
+- 👁️ Tailwind, CSS, BootStrap, shadchan ui.
+- 💽 MySQL, SQL, Mongodb.
+- 🔌 Websocket, WebRTC, Stripe.
+- 🚢 Docker
+- 🐧 Linux Server administration, Nginx, Caddy, AWS, Digital ocean, DNS.
+
+  
+
 ![Views](https://komarev.com/ghpvc/?username=kamleshpaul)
 
 ## My Recent Projects
