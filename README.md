@@ -48,6 +48,9 @@
   ### Screenshots
   ![Screenshot 1](./Work/Vardforetag/screenshot1.png)
   ![Screenshot 2](./Work/Vardforetag/screenshot2.png)
+  ![Screenshot 3](./Work/Vardforetag/screenshot3.png)
+  ![Screenshot 4](./Work/Vardforetag/screenshot4.png)
+  ![Screenshot 5](./Work/Vardforetag/screenshot5.png)
 </details>
 
 <details>
@@ -64,6 +67,8 @@
   ### Screenshots
   ![Screenshot 1](./Work/Quiptgsm/screenshot1.png)
   ![Screenshot 2](./Work/Quiptgsm/screenshot2.png)
+  ![Screenshot 3](./Work/Quiptgsm/screenshot3.png)
+  ![Screenshot 4](./Work/Quiptgsm/screenshot4.png)
 </details>
 
 <details>
@@ -79,6 +84,8 @@
 
   ### Screenshots
   ![Screenshot 1](./Work/DCC/screenshot1.png)
+  ![Screenshot 2](./Work/DCC/screenshot2.png)
+  ![Screenshot 3](./Work/DCC/screenshot3.png)
 </details>
 
 <details>
@@ -94,6 +101,11 @@
 
   ### Screenshots
   ![Screenshot 1](./Work/CoveredPress/screenshot1.png)
+  ![Screenshot 2](./Work/CoveredPress/screenshot2.png)
+  ![Screenshot 3](./Work/CoveredPress/screenshot3.png)
+  ![Screenshot 4](./Work/CoveredPress/screenshot4.png)
+  ![Screenshot 5](./Work/CoveredPress/screenshot5.png)
+  ![Screenshot 6](./Work/CoveredPress/screenshot6.png)
 </details>
 
 <details>
@@ -124,4 +136,5 @@
 
   ### Screenshots
   ![Screenshot 1](./Work/GoogleMeetClone/screenshot1.png)
+  ![Screenshot 2](./Work/GoogleMeetClone/screenshot2.png)
 </details>
