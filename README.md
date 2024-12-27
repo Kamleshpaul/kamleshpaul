@@ -1,12 +1,10 @@
 <h2 align="center">Hi there  <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"><br/> I'm Full Stack developer with 6+ Exp.
-</h2>
 
+<br/>
+<br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kamleshpaul&theme=github&ring=5595f0&hide_border=true&currStreakNum=5595f0&fire=5595f0&currStreakLabel=5595f0)
-
-[![kamlesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamleshpaul&count_private=true&show_icons=true)](#)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamleshpaul&langs_count=8&layout=compact)](#)
-
+|<a href="https://github.com/kamleshpaul/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kamleshpaul&show_icons=true&include_all_commits=true&theme=github&hide_border=true" alt="kamleshpaul's github stats" /></a> |<img src="https://github-readme-streak-stats.herokuapp.com/?user=kamleshpaul&theme=github&ring=5595f0&hide_border=true&currStreakNum=5595f0&fire=5595f0&currStreakLabel=5595f0" alt="GitHub Streak" /> | <a href="https://github.com/kamleshpaul/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamleshpaul&layout=compact&theme=github&hide_border=true" /></a> | 
+| ------------- | ------------- | ------------- |
 
 
 <h2>Connect with me</h2>
