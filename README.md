@@ -3,7 +3,7 @@
 <br/>
 <br/>
 
-|<a href="https://github.com/kamleshpaul/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kamleshpaul&show_icons=true&include_all_commits=true&theme=github&hide_border=true" alt="kamleshpaul's github stats" /></a> |<img src="https://github-readme-streak-stats.herokuapp.com/?user=kamleshpaul&theme=github&ring=5595f0&hide_border=true&currStreakNum=5595f0&fire=5595f0&currStreakLabel=5595f0" alt="GitHub Streak" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamleshpaul&layout=compact&theme=github&hide_border=true" /> | 
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamleshpaul&show_icons=true&include_all_commits=true&theme=github&hide_border=true" alt="kamleshpaul's github stats" /> |<img src="https://github-readme-streak-stats.herokuapp.com/?user=kamleshpaul&theme=github&ring=5595f0&hide_border=true&currStreakNum=5595f0&fire=5595f0&currStreakLabel=5595f0" alt="GitHub Streak" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamleshpaul&layout=compact&theme=github&hide_border=true" /> | 
 | ------------- | ------------- | ------------- |
 
 
