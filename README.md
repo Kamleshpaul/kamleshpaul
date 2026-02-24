@@ -1,13 +1,13 @@
-<h2 align="center">Hi there <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"><br/> I'm a Full Stack Developer with 7+ years of experience.</h2>
+<h2 align="center">Hi there <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"><br/> I'm a Full Stack Developer with 8+ years of experience.</h2>
 
 <br/>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=kamleshpaul&show_icons=true&include_all_commits=true&theme=github&hide_border=true" alt="kamleshpaul's GitHub stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamleshpaul&theme=github&ring=5595f0&hide_border=true&currStreakNum=5595f0&fire=5595f0&currStreakLabel=5595f0" alt="GitHub Streak" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamleshpaul&layout=compact&theme=github&hide_border=true" /> | 
-| ------------- | ------------- | ------------- |
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamleshpaul&theme=github&ring=5595f0&hide_border=true&currStreakNum=5595f0&fire=5595f0&currStreakLabel=5595f0" alt="GitHub Streak" /> |  
+ ------------- | 
 
 <h2>Connect with me</h2>
 
-- 🌐 Blog: [Coding Tricks](https://codingtricks.co)
+- 🌐 Blog: [Kamlesh Paul](https://kamleshpaul.com/)
 - 📧 Email: [kamleshpaul414@gmail.com](mailto:kamleshpaul414@gmail.com)
 - 💼 LinkedIn: [in/kamleshpaul](http://linkedin.com/in/kamlesh-paul/)
 
